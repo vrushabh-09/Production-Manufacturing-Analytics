@@ -10,7 +10,15 @@
 ![Pages](https://img.shields.io/badge/Report%20Pages-5-EDC373?style=for-the-badge)
 ![Records](https://img.shields.io/badge/Fact%20Records-500%2B-4C8C7A?style=for-the-badge)
 
-![Executive Dashboard](Executive%20overview%20Dashboard%20Report1.png)
+</div>
+
+## 🎥 Dashboard Demo
+
+<div align="center">
+
+[![Watch the demo](Executive%20overview%20Dashboard%20Report1.png)](https://drive.google.com/file/d/1KwGHzLhLYLvRKkvRh99fTwHj5V2tTKKN/view?usp=sharing)
+
+▶️ *Click the image to watch the dashboard demo*
 
 </div>
 
