@@ -1,0 +1,21 @@
+EmployeeKey,EmployeeName,Role,Experience_Years,HourlyRate
+E001,Employee1,Operator,7,28.49
+E002,Employee2,Operator,7,20.99
+E003,Employee3,Operator,2,32.07
+E004,Employee4,Operator,10,20.8
+E005,Employee5,Operator,9,27.42
+E006,Employee6,Operator,9,31.81
+E007,Employee7,Operator,13,21.71
+E008,Employee8,Operator,7,21.97
+E009,Employee9,Operator,5,23.28
+E010,Employee10,Operator,7,19.96
+E011,Employee11,Operator,6,30.07
+E012,Employee12,Operator,14,33.02
+E013,Employee13,Operator,15,20.84
+E014,Employee14,Operator,4,21.15
+E015,Employee15,Operator,5,30.71
+E016,Employee16,Supervisor,13,32.93
+E017,Employee17,Supervisor,10,17.43
+E018,Employee18,Supervisor,10,33.56
+E019,Employee19,Quality Inspector,10,19.89
+E020,Employee20,Quality Inspector,10,19.85

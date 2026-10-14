@@ -1,0 +1,4 @@
+ShiftKey,ShiftName,StartTime,EndTime,ShiftType
+S1,Morning,06:00,14:00,Regular
+S2,Evening,14:00,22:00,Regular
+S3,Night,22:00,06:00,Overtime

@@ -1,0 +1,11 @@
+ProductKey,ProductCode,ProductName,ProductCategory,StandardCost,SellingPrice
+P01,BRK-101,Brake Rotor,Brakes,25.5,49.99
+P02,PAD-202,Brake Pad,Brakes,12.3,29.99
+P03,ENG-303,Engine Piston,Engine,45.0,89.99
+P04,ALT-404,Alternator,Electrical,65.2,129.99
+P05,BAT-505,Battery,Electrical,80.0,159.99
+P06,TRN-606,Transmission Gear,Transmission,120.5,249.99
+P07,SUS-707,Shock Absorber,Suspension,35.4,79.99
+P08,AXL-808,Axle,Chassis,95.6,189.99
+P09,RAD-909,Radiator,Cooling,110.3,219.99
+P10,FAN-010,Cooling Fan,Cooling,28.75,59.99

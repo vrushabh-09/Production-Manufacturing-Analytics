@@ -1,0 +1,7 @@
+MachineKey,MachineName,Line,Manufacturer,Age_Years,Capacity_PerHour
+M01,Pressing-01,Line A,PressCo,3.0,500
+M02,Pressing-02,Line A,PressCo,2.0,500
+M03,CNC-Mill-01,Line B,CNCMaster,4.0,300
+M04,CNC-Mill-02,Line B,CNCMaster,1.0,300
+M05,Assembly-01,Line C,AutoAssy,2.0,400
+M06,Assembly-02,Line C,AutoAssy,0.5,400
